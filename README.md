@@ -1,9 +1,10 @@
-### Hi there 👋
+### <HELLO THERE>
 
-Contacts
+Contact me at :
 
-Languages
+Knowledge in these languages:
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+
 
 
 <!--
